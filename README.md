@@ -19,6 +19,11 @@ The database consists of the following tables:
 
 CSV files are used to import data into the respective tables, such as aisles, departments, orders, products, and order products.
 
+## ERD (Entity-Relationship Diagram) 🌐
+
+[Supermarket](https://github.com/Audran-wol/SQL-Final-Project/assets/91311465/797664e7-61e3-4b71-9533-98ba2a99ca7e)
+
+
 ## SQL Queries 📈
 
 ### 1. Top 10 Products Sales For Each Day of the Week
@@ -51,4 +56,5 @@ Identifies the top 100 pairwise associations between products based on the numbe
 - [Database Diagram](https://www.drawsql.app/[Your Database Diagram Link])
 - [Data Source](https://www.yourdatasourcelink.com)
 
-Feel free to explore the project and run the SQL queries to gain valuable insights into supermarket data!
+Feel free to explore the project, run the SQL queries, and check out the ERD to gain valuable insights into supermarket data!
+
