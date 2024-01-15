@@ -52,7 +52,7 @@ Identifies the top 100 pairwise associations between products based on the numbe
 ## Links 🔗
 
 - [Video Demonstration](https://www.youtube.com/watch?v=[Your Video Link])
-- [Database Diagram](https://www.drawsql.app/[Your Database Diagram Link])
+- [Database Diagram](https://dbdiagram.io/d/Supermarket-65a5bcfbac844320aefa7a01)
 - [Data Source](https://www.yourdatasourcelink.com)
 
 Feel free to explore the project, run the SQL queries, and check out the ERD to gain valuable insights into supermarket data!
