@@ -21,7 +21,7 @@ CSV files are used to import data into the respective tables, such as aisles, de
 
 ## ERD (Entity-Relationship Diagram) 🌐
 
-[Supermarket](https://github.com/Audran-wol/SQL-Final-Project/assets/91311465/797664e7-61e3-4b71-9533-98ba2a99ca7e)
+[Supermarket]https://github.com/Audran-wol/SQL-Final-Project/assets/91311465/797664e7-61e3-4b71-9533-98ba2a99ca7e
 
 
 ## SQL Queries 📈
